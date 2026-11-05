@@ -1,0 +1,23 @@
+/*fonte e cores gerais*/ 
+body {
+    font-family: arial, sans-serif;
+    background-color: blueviolet;
+    color: blueviolet;
+    margin: 0;
+}
+
+/*tirar as bordas da panilha*/
+table, td {
+    border: none;
+    border-collapse: collapse;
+}
+
+/*titulos com cor a da loja*/ 
+h1, h2 { color: aqua; (45, 56, 117);}
+
+/*links sem sublinhado*/
+a {
+    color: azure;
+    text-decoration: none;
+    font-weight: bold
+};
