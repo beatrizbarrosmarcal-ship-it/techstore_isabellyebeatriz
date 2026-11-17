@@ -214,29 +214,4 @@ table:last-of-type img {
   a {
     padding: 6px 8px;                         /* links do menu mais compactos para caber na tela */
   }
-}/*fonte e cores gerais*/ 
-body {
-    font-family: arial, sans-serif;
-    background-color: blueviolet;
-    color: rgb(197, 183, 165)
-    margin: 0;
 }
-
-/*tirar as bordas da panilha*/
-    table, td 
-    border: none;
-    /* =============================================================
-   TECHSTORE - style.css
-   Cada linha tem um comentário dizendo o que ela faz.
-   Não gostou de algo? Apague a linha (ou troque o valor) e veja
-   o que muda. Dica: depois de salvar, aperte Ctrl + F5.
-   ============================================================= */
-
-
-/* -------------------------------------------------------------
-   0. FONTES
-   ------------------------------------------------------------- */
-@import url("https://fonts.googleapis.com/css2?family=Barlow:wght@400;600&family=Barlow+Condensed:wght@600;700&display=swap"); /* baixa duas fontes do Google Fonts: Barlow (textos) e Barlow Condensed (títulos, parecida com a letra do banner) */
-
-
-/* -------------------------------------------------------------
