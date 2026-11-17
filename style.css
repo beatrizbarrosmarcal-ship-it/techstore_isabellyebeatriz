@@ -48,7 +48,7 @@ td {
    ------------------------------------------------------------- */
 table:nth-of-type(1) td {
   padding: 0;                                 /* tira o espaço em volta do banner, ele encosta nas bordas da tela */
-  background-color: #16034a;                  /* faixa escura atrás do título, continua a cor do banner */
+  background-color: #15f0f0;                  /* faixa escura atrás do título, continua a cor do banner */
 }
 
 table:nth-of-type(1) img {
@@ -65,7 +65,7 @@ h1 {
 }
 
 h1 + p {
-  color: #f4a6c6;                             /* frase "Informática e Eletrônicos" em rosa (mesma cor dos triângulos do banner) */
+  color: #3ae4f0;                             /* frase "Informática e Eletrônicos" em rosa (mesma cor dos triângulos do banner) */
   margin: 0 0 20px;                           /* aproxima a frase do título e dá espaço embaixo */
   font-size: 1.1rem;                          /* frase um pouco maior que o texto normal */
 }
@@ -84,11 +84,11 @@ table:nth-of-type(2) {
 
 table:nth-of-type(2) td {
   padding: 12px;                              /* altura da faixa do menu */
-  color: #cfcbe0;                             /* cor das barrinhas | entre os links (cinza claro, discretas) */
+  color: #c9e8f0;                             /* cor das barrinhas | entre os links (cinza claro, discretas) */
 }
 
 a {
-  color: #16034a;                             /* cor dos links (azul-marinho da marca) */
+  color: #b3ecfa;                             /* cor dos links (azul-marinho da marca) */
   text-decoration: none;                      /* tira o sublinhado */
   font-weight: 600;                           /* links em seminegrito */
   padding: 6px 14px;                          /* área em volta do link, fica mais fácil de clicar */
@@ -97,7 +97,7 @@ a {
 }
 
 a:hover {
-  background-color: #e8457c;                  /* ao passar o mouse, aparece um fundo rosa forte */
+  background-color: #96ecd7;                  /* ao passar o mouse, aparece um fundo rosa forte */
   color: #ffffff;                             /* e o texto do link fica branco */
 }
 
@@ -108,7 +108,7 @@ a:hover {
 h2 {
   font-family: "Barlow Condensed", Arial, sans-serif; /* mesma fonte do título principal */
   font-size: 2rem;                            /* tamanho dos títulos de seção */
-  color: #16034a;                             /* títulos em azul-marinho da marca */
+  color: #0dc9f8;                             /* títulos em azul-marinho da marca */
   max-width: 1100px;                          /* largura máxima, alinha com a área dos produtos */
   margin: 48px auto 8px;                      /* espaço em cima, centraliza o bloco e pouco espaço embaixo */
   paTechStore
