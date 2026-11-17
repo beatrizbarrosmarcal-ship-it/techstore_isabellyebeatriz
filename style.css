@@ -223,7 +223,7 @@ body {
 }
 
 /*tirar as bordas da panilha*/
-table, td {
+    table, td 
     border: none;
     /* =============================================================
    TECHSTORE - style.css
