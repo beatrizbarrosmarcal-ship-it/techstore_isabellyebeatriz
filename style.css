@@ -1,5 +1,3 @@
-style.css
-100%
 /* =============================================================
    TECHSTORE - style.css
    Cada linha tem um comentário dizendo o que ela faz.
@@ -113,7 +111,8 @@ h2 {
   color: #16034a;                             /* títulos em azul-marinho da marca */
   max-width: 1100px;                          /* largura máxima, alinha com a área dos produtos */
   margin: 48px auto 8px;                      /* espaço em cima, centraliza o bloco e pouco espaço embaixo */
-  padding: 0 20px 0 16px;                     /* afasta o texto da borda da tela (resolve o "Nossos" cortado) */
+  paTechStore
+Informática e Eletrônicosdding: 0 20px 0 16px;                     /* afasta o texto da borda da tela (resolve o "Nossos" cortado) */
   border-left: 5px solid #e8457c;             /* barrinha rosa à esquerda do título */
 }
 
